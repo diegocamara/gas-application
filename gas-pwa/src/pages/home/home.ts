@@ -11,7 +11,7 @@ export class HomePage {
   current: any = MapPage;
 
   constructor(public navCtrl: NavController) {
-
+    
   }
 
 
